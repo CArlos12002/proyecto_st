@@ -1,4 +1,4 @@
-#Juego de Memorama de Secuencias
+# Juego de Memorama de Secuencias
 ### Introducción Detallada del Proyecto
 
 Este proyecto consiste en la creación de un juego de memorama en Python, diseñado para desafiar la capacidad de memoria del usuario a través de secuencias progresivamente más complejas. El juego incluye una serie de características clave, como la generación aleatoria de combinaciones de letras y números, un sistema de 10 niveles, un límite de 3 vidas, un contador regresivo visible en la terminal, y la posibilidad de volver a jugar si el usuario pierde todas sus vidas.
